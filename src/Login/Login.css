@@ -1,0 +1,13 @@
+.loginSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.leftBox h6{
+    padding-left: 10px;
+    font-size: 50px;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
